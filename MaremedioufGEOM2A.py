@@ -16,7 +16,7 @@ st.subheader("CARTOGRAPHIE🗺️:")
 st.markdown("""
 - carographie  appliqué à l'urbanisme 
 - cartographie des flux , des réseaux ...
-- cartographie des structes de commerce""")
+- cartographie des structures de commerce""")
 st.write(" ")
 st.subheader("Analyse sig📈:")
 st.markdown("""
